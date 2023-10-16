@@ -1,0 +1,10 @@
+16/10/2023 09:55:44	This log contains information about the import schema operation into project 'CICD_DB' on computer 'LAPTOP-DIP7EBPT' by user 'Adikrisna Nugraha'.
+16/10/2023 09:55:44	Deserializing model
+16/10/2023 09:55:44	Resolving model
+16/10/2023 09:55:44	Visiting imported model for types
+16/10/2023 09:55:44	Scanning project for duplicate elements
+16/10/2023 09:55:44	Finished duplicate element processing
+16/10/2023 09:55:45	Processing extra files
+16/10/2023 09:55:45	Finished importing Data-tier Application file.
+16/10/2023 09:55:45	A summary of the import was saved to the following location: D:\Adikrisna\PERCOBAAN\CICD\CICD_Repo\CICD_DB\CICD_DB\Import Schema Logs\CICD_DB_20231016025544.log
+16/10/2023 09:55:45	Click Finish to continue...
